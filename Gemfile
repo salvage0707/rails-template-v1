@@ -39,6 +39,10 @@ gem "active_hash"
 # https://github.com/makandra/active_type
 gem "active_type"
 
+# https://github.com/twbs/bootstrap-rubygem
+gem "bootstrap"
+gem "jquery-rails"
+
 group :development, :test do
   gem "debug", platforms: %i[mri mingw x64_mingw]
   gem "rspec-rails"
