@@ -22,6 +22,7 @@ Rails7を使った開発用テンプレート
 |active_type| modelの処理分割| https://github.com/makandra/active_type|
 |rubocop| コードのリンター| https://github.com/rubocop/rubocop-rails <br> https://docs.rubocop.org/rubocop-rails/index.html <br> https://docs.rubocop.org/rubocop/compatibility.html|
 |brakeman| コードのセキュリティチェック| https://github.com/presidentbeef/brakeman|
+|enumerize| modelの値をenumにできる| https://github.com/brainspec/enumerize|
 
 ## setup
 
