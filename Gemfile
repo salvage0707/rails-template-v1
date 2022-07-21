@@ -39,6 +39,10 @@ gem "active_hash"
 # https://github.com/makandra/active_type
 gem "active_type"
 
+gem "dotenv-rails"
+
+gem "enumerize"
+
 # https://github.com/twbs/bootstrap-rubygem
 gem "bootstrap"
 gem "jquery-rails"
